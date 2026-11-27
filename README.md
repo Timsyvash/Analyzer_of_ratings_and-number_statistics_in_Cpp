@@ -1,4 +1,3 @@
-# Analyzer_of_ratings_and-number_statistics_in_Cpp
 # Analyzer of Ratings and Number Statistics in C++
 
 Консольна програма на **C++** для статистичного аналізу чисел та оцінок з інтерактивним меню, валідацією вводу та декомпозицією логіки на окремі функції.
